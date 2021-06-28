@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: hfbng9_z_400x400.jpg
+    image: ""
 ---
