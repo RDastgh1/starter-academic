@@ -38,4 +38,4 @@ highlight_name: false
 ---
 Raha Dastgheyb is  a junior faculty member of the Brain Health Program and Johns Hopkins Neurology.  Her background is in Biomedical Engineering and Computer Science, with neuro-related applications from traumatic brain injury to HIV.  She develops tools to analyze wet lab and clinical data and works on deploying them in stand-alone apps so that these analysis methods can be available to scientists regardless of coding ability.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/hopkins_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
