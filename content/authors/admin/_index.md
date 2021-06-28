@@ -32,7 +32,7 @@ education:
     - course: BS in Biomedical Engineering
       institution: University of Virginia
       year: 2008
-email: ""
+email: rdastgh1@jhmi.edu
 superuser: true
 highlight_name: false
 ---
