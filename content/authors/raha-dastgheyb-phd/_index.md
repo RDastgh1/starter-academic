@@ -1,7 +1,7 @@
 ---
 title: Raha Dastgheyb, PhD
 role: Instructor | Data Scientist | Programmer | Brain Stuff
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
