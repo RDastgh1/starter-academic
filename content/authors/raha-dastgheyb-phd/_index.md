@@ -8,5 +8,5 @@ social:
     icon_pack: ai
     link: https://twitter.com/RahaPhD
     icon: twitter
-superuser: false
+superuser: true
 ---
